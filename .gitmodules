@@ -1,0 +1,12 @@
+[submodule "claude-seo"]
+	path = claude-seo
+	url = https://github.com/AgriciDaniel/claude-seo.git
+[submodule "geo-optimizer-skill"]
+	path = geo-optimizer-skill
+	url = https://github.com/Auriti-Labs/geo-optimizer-skill.git
+[submodule "mcp-gsc"]
+	path = mcp-gsc
+	url = https://github.com/AminForou/mcp-gsc.git
+[submodule "open-seo"]
+	path = open-seo
+	url = https://github.com/every-app/open-seo.git
